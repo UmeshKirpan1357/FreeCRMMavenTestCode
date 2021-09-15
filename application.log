@@ -1324,3 +1324,131 @@
 2021-09-15 22:06:38,046  INFO [main] TestBase:35 - Propertied file loaded into property objec
 2021-09-15 22:06:38,047  INFO [main] TestBase:30 - Properties object created
 2021-09-15 22:06:38,048  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:44,984  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:44,989  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,045  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,047  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,051  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,053  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,059  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,060  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,069  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,070  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,074  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,075  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,083  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,086  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,087  INFO [main] LoginPageTest:21 - Fetching Base Driver Constructor --super() can be used to call parent class' constructors only.
+2021-09-15 23:04:45,092  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,093  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:45,123  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:45,124  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:47,567  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:04:52,341  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:52,343  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:52,381  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:52,383  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:56,381  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:56,382  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:04:59,237  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:04:59,239  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:01,569  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:05:05,984  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:05,985  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:05,987  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:05,988  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:09,378  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:09,380  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:09,383  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:09,384  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:13,916  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:05:18,330  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:18,331  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:22,311  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:22,312  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:22,315  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:22,317  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:26,837  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:05:31,157  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:31,158  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:34,842  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:34,843  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:37,223  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:37,225  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:37,237  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:37,239  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:39,742  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:05:44,162  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:44,168  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:48,694  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:48,695  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:48,698  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:48,698  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:05:53,138  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:05:57,543  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:05:57,549  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:01,489  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:01,491  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:04,813  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:06:09,196  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:09,198  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:12,656  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:12,657  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:14,695  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:14,696  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:16,791  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:06:22,825  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:22,827  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:26,201  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:26,202  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:28,059  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:28,060  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:30,116  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:06:34,619  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:34,622  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:38,768  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:38,769  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:41,809  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:41,811  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:43,873  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:06:47,930  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:47,931  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:51,434  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:51,436  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:53,771  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:06:53,772  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:06:55,841  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:00,206  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:00,207  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:04,226  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:04,227  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:06,038  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:06,039  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:08,139  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:12,604  INFO [main] LoginPageTest:29 - calling chrome driver
+2021-09-15 23:07:12,606  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:12,608  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:14,821  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:19,171  INFO [main] LoginPageTest:29 - calling chrome driver
+2021-09-15 23:07:19,172  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:19,173  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:21,287  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:25,747  INFO [main] LoginPageTest:29 - calling chrome driver
+2021-09-15 23:07:25,748  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:25,750  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:25,758  INFO [main] LoginPageTest:37 - Verifying Ligin Page Title
+2021-09-15 23:07:25,760 ERROR [main] LoginPageTest:38 - Error in page title reading
+2021-09-15 23:07:25,760 DEBUG [main] LoginPageTest:39 - Page title
+2021-09-15 23:07:27,914  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:32,165  INFO [main] LoginPageTest:29 - calling chrome driver
+2021-09-15 23:07:32,167  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:32,168  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:35,556  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:35,558  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:37,723  INFO [main] TestBase:55 - Chrome Driver Initiated
+2021-09-15 23:07:42,164  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:42,167  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:46,315  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:46,316  INFO [main] TestBase:35 - Propertied file loaded into property objec
+2021-09-15 23:07:46,317  INFO [main] TestBase:30 - Properties object created
+2021-09-15 23:07:46,318  INFO [main] TestBase:35 - Propertied file loaded into property objec

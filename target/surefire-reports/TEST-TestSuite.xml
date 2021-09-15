@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="16" failures="0" name="TestSuite" time="26.499" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\UMESH2850"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.12"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="UMESH2850"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11.0.12"/>
+    <property name="JOB_NAME" value="Free CRM Local Code"/>
+    <property name="COMPUTERNAME" value="UMESH2850"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="Umesh"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="GOOGLE_API_KEY" value="no"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Umesh\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/5/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-Free CRM Local Code-5"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.8.2-bin\apache-maven-3.8.2 C:\Users\Umesh\.jenkins\war\WEB-INF\lib\remoting-4.10.jar C:\Users\Umesh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Umesh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 57947"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="d0ac305d8c5eec45"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11.0.12/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Android;C:\Windows\System32;C:\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jre1.8.0_301\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ukirp\AppData\Local\Microsoft\WindowsApps;C:\Users\ukirp\AppData\Local\GitHubDesktop\bin;C:\Users\Umesh\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="java.io.tmpdir" value="C:\Users\Umesh\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\Umesh\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/5/"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.8.2-bin\apache-maven-3.8.2"/>
+    <property name="=C:" value="C:\Jenkins"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="d0ac305d8c5eec45"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jre1.8.0_301"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\Umesh\.jenkins\workspace\Free CRM Local Code@tmp"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.8.2-bin\apache-maven-3.8.2"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Umesh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="HOMEPATH" value="\Users\Umesh"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="AXIS_HOME" value="D:\AutomationSoft\axis2-1.6.2\axis2-1.6.2"/>
+    <property name="maven3.interceptor" value="C:\Users\Umesh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.8.2-bin\apache-maven-3.8.2/bin;C:\Program Files\Java\jdk-11.0.12/bin;C:\Program Files\Java\jdk-11.0.12/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Android;C:\Windows\System32;C:\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jre1.8.0_301\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ukirp\AppData\Local\Microsoft\WindowsApps;C:\Users\ukirp\AppData\Local\GitHubDesktop\bin;C:\Users\Umesh\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="FreeCRMTest"/>
+    <property name="POM_ARTIFACTID" value="FreeCRMTest"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/"/>
+    <property name="SynaProgDir" value="Synaptics\SynTP"/>
+    <property name="OneDrive" value="C:\Users\Umesh\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/5/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\Umesh\.jenkins"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="TEMP" value="C:\Users\Umesh\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Umesh\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.8.2-bin\apache-maven-3.8.2/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="UMESH2850"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/5/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11.0.12"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\Umesh"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Umesh"/>
+    <property name="USERNAME" value="Umesh"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="GOOGLE_DEFAULT_CLIENT_ID" value="no"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\Umesh\eclipse-workspace\FreeCRMPracticeMavenCode"/>
+    <property name="maven.conf" value="C:\apache-maven-3.8.2-bin\apache-maven-3.8.2\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\Umesh\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.12+8-LTS-237"/>
+    <property name="java.class.path" value="C:\Users\Umesh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\apache-maven-3.8.2-bin\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar;C:\apache-maven-3.8.2-bin\apache-maven-3.8.2/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="OneDriveConsumer" value="C:\Users\Umesh\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\Umesh\.jenkins\workspace\Free CRM Local Code"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="ANDROID_SDK_HOME" value="C:\Android"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/Free%20CRM%20Local%20Code/5/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="11.0.12+8-LTS-237"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11.0.12/bin"/>
+    <property name="=ExitCode" value="C000013A"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\apache-maven-3.8.2-bin\apache-maven-3.8.2"/>
+    <property name="JOB_BASE_NAME" value="Free CRM Local Code"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="GOOGLE_DEFAULT_CLIENT_SECRET" value="no"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="FreeCRMTest"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="com.crm.qa.testcases.CalenderPageTest" name="validateCalenderTest" time="0.181"/>
+  <testcase classname="com.crm.qa.testcases.CasesPageTest" name="validateCasesPageTitleTest" time="2.332"/>
+  <testcase classname="com.crm.qa.testcases.CompaniesPageTest" name="validateCompaniesPageTitleTest" time="2.41"/>
+  <testcase classname="com.crm.qa.testcases.ContactPageTest" name="validateContactPageTitleTest" time="0.401"/>
+  <testcase classname="com.crm.qa.testcases.DealsPageTest" name="validateDealsPageTitleTest" time="2.316"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateLoggedInUserNameTest" time="1.252"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateContactPageLinkTest" time="2.037"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateDealsPageLinkTest" time="1.858"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateCompaniesPageLinkTest" time="3.044"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateTaskPageLinkTest" time="2.336"/>
+  <testcase classname="com.crm.qa.testcases.HomePageTest" name="validateCasesPageLinkTest" time="1.811"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="validateLoginBtnDisplayedTest" time="0.039"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="validateLoginBtnTest" time="0.058"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginPageTitleTest" time="0.01"/>
+  <testcase classname="com.crm.qa.testcases.LoginPageTest" name="loginTest" time="3.385"/>
+  <testcase classname="com.crm.qa.testcases.TaskPageTest" name="validateDealsPageTitleTest" time="3.029"/>
+</testsuite>
