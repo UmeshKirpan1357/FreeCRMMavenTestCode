@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 216.879 sec <<< FAILURE!
+validateContactPageTitleTest(com.crm.qa.testcases.ContactPageTest)  Time elapsed: 0.416 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Cont3acts] but found [Contacts]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.crm.qa.testcases.ContactPageTest.validateContactPageTitleTest(ContactPageTest.java:43)
+
+tearDown(com.crm.qa.testcases.ContactPageTest)  Time elapsed: 0.432 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.crm.qa.testcases.ContactPageTest.tearDown(ContactPageTest.java:87)
+
